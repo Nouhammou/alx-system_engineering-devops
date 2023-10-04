@@ -1,2 +1,2 @@
 #!/bin/bash
-ls -t | head
+-type f -exec ls -t1 {} +
